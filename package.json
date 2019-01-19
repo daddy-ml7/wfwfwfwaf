@@ -23,7 +23,7 @@
   "dependencies": {
     "dateformat": "^3.0.3",
     "discord.js": "^11.3.2",
-    "express": "^4.16.3",
+    "momen": "*",
     "got": "^8.3.0",
     "http": "^0.0.0",
     "jimp": "^0.2.28",
